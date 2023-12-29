@@ -1,6 +1,6 @@
-## Demo
+## Demo of the Project 🚀
 
-https://github.com/Shivam-0407/E-Commerce-Frontend/assets/126800410/f51330b4-9be4-4bfd-8e23-c4f547a5af73
+https://github.com/Shivam-0407/E-Commerce-Frontend/assets/126800410/2e825a09-43a5-4dff-b18f-c919f38b8f3e
 
 
 # Getting Started with Create React App
